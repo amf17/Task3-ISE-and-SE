@@ -1,4 +1,4 @@
-# Writing the script for the closing ceremony
+# Writing the script for the 
 
 
 
