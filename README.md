@@ -1,7 +1,6 @@
-# كتابة سيناريو الحفل الختامي
+# Writing the script for the closing ceremony
 
 
-محاور الحفل - تنظيم الحفل - مهام كل روبوت
 
 
 
